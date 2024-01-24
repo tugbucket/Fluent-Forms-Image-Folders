@@ -1,4 +1,4 @@
-# Fluent-Forms-Image-Folders
+# Fluent Forms Image Folders
 Creates folders in _/uploads/fluentform_, accessible by FTP,  named _your_form_name_ and renames files _&lt;form id>-firstname_lastname-&lt;index>-&lt;extension>_
 
 ## What it does
